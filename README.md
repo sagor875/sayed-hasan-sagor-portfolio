@@ -1,49 +1,35 @@
-# 🌐 My Professional Portfolio Website
+# 🌐 Sayed Hasan Sagor - Professional Portfolio
 
-আপনার পোর্টফোলিও প্রজেক্টের কোডটি দেখতে এবং আমার কাজের দক্ষতা যাচাই করতে আপনাকে স্বাগতম! এটি আমার একটি পার্সোনাল পোর্টফোলিও ওয়েবসাইট, যেখানে আমার পরিচয়, স্কিল এবং সেরা প্রজেক্টগুলো প্রদর্শন করা হয়েছে।
+Welcome to my professional portfolio repository! This website showcases my 10+ years of extensive experience, core technical skills, and career timeline within the garments and textile industry.
 
-## 🔗 Live Demo
-🚀 **লাইভ ওয়েবসাইটটি দেখুন এখানে:** [sayed-hasan-sagor-portfolio](https://github.io)
-
----
-
-## 🛠️ Tech Stack (ব্যবহৃত প্রযুক্তিসমূহ)
-এই প্রজেক্টটি তৈরি করতে আমি নিচের প্রযুক্তিগুলো ব্যবহার করেছি:
-* **HTML5** - ওয়েবসাইটের মূল স্ট্রাকচার বা কাঠামো তৈরির জন্য।
-* **CSS3** - ওয়েবসাইটটিকে সুন্দর এবং রেসপনসিভ (মোবাইল ও কম্পিউটার ফ্রেন্ডলি) করার জন্য।
-* **JavaScript** - ইন্টারঅ্যাক্টিভিটি এবং ডাইনামিক ফিচারের জন্য।
-* *(যদি React, Bootstrap, বা Tailwind ব্যবহার করে থাকেন, তবে সেগুলো এখানে যুক্ত করুন)*
+## 🔗 Live Website Link
+🚀 **Explore my live portfolio website here:** [sayed-hasan-sagor-portfolio](https://github.io)
 
 ---
 
-## ✨ Features (মূল বৈশিষ্ট্যসমূহ)
-* 📱 **Fully Responsive:** মোবাইল, ট্যাবলেট এবং ডেক্সটপ—সব ধরণের স্ক্রিনেই পারফেক্টলি দেখা যায়।
-* 📂 **Project Showcase:** আমার তৈরি করা সেরা প্রজেক্টগুলোর লিস্ট এবং লাইভ লিংক।
-* ✉️ **Contact Form:** আমার সাথে সরাসরি যোগাযোগ করার ব্যবস্থা।
-* 🌙 **Modern UI/UX:** ইউজার ফ্রেন্ডলি এবং ক্লিন ডিজাইন।
+## 🛠️ Tech Stack & Skills
+
+This portfolio project highlights my professional background and technical competencies:
+* **Frontend Web Development:** HTML5, CSS3, JavaScript (Used for responsive website structure and modern design).
+* **Garments Technical Skills:** Sewing Line Management, Machine Troubleshooting, Production Follow-up, QC/QA, Line Balancing, and Technical & Production Support.
+* **Software Tools:** Optitex (2D Pattern), Microsoft Word, Microsoft Excel, and Email Communication.
 
 ---
 
-## 🚀 How to Run Locally (নিজের কম্পিউটারে যেভাবে চালাবেন)
-
-প্রজেক্টটি আপনার লোকাল মেশিনে রান করতে নিচের ধাপগুলো অনুসরণ করুন:
-
-১. রিপোজিটরিটি ক্লোন করুন:
-```bash
-git clone https://github.com
-```
-
-২. প্রজেক্ট ফোল্ডারে প্রবেশ করুন:
-```bash
-cd sayed-hasan-sagor-portfolio
-```
-
-৩. `index.html` ফাইলটি যেকোনো ব্রাউজারে ওপেন করুন।
+## ✨ Portfolio Features
+* 📱 **Fully Responsive Layout:** Optimized perfectly for any screen size, including mobile, tablet, and desktop.
+* 💼 **Professional Experience Timeline:** Displays my 10+ years of career journey across Fortis Group, Amtrannet Group, and Fakir Fashion Ltd.
+* 📊 **Buyer Showcase:** Highlights my experience working with world-renowned brands and buyers like Puma, Lidl, Walmart, and Gymboree.
+* ✉️ **Contact Details & Quick Links:** Embedded contact information including phone number, email, and LinkedIn connection.
 
 ---
 
-## 🎯 About Me
-আমি একজন ওয়েব ডেভেলপার এবং নতুন নতুন প্রযুক্তি শিখতে পছন্দ করি। মানসম্মত কোড লেখা এবং চমৎকার ইউজার এক্সপেরিয়েন্স তৈরি করাই আমার প্রধান লক্ষ্য। 
+## 🎯 Professional Overview
+I am a seasoned technical professional in the garment manufacturing industry with expertise in sewing floor operations, technical support, production follow-up, and quality control. My primary focus is reducing machine downtime, maximizing floor efficiency, and driving production targets through strong team coordination and technical troubleshooting.
 
+---
+
+## 📞 Connect with Me
 * **LinkedIn:** [https://www.linkedin.com/in/sayed-hasan-sagor-8b06532b3?utm_source=share_via&utm_content=profile&utm_medium=member_android]
-* **Email:** [sayedhasansagor875@gmail.com]
+* **Email:** sayedhasansagor875@gmail.com
+* **Location:** Gazipur, Dhaka, Bangladesh
